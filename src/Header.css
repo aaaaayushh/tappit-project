@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  width: 100%;
+  text-align: left;
+  background-color: rgba(241, 241, 241, 0.726);
+}
+.heading {
+  flex: 2;
+  margin-left: 20px;
+}
+.sort {
+  color: rgb(131, 133, 134);
+}
+.dropdown {
+  margin: 20px 20px;
+  width: 125px;
+}
+.sort {
+  margin: 30px;
+  margin-right: 5px;
+}
+.header__button {
+  margin: 20px;
+  color: white;
+  background-color: rgb(67, 145, 67);
+  border: none;
+  padding: 20px;
+  border-radius: 10px;
+}
