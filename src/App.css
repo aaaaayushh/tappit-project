@@ -13,3 +13,6 @@
   border: 4px solid rgb(54, 143, 226);
   border-radius: 10px;
 }
+* {
+  font-family: "Segoe UI", sans-serif;
+}

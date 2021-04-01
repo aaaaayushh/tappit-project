@@ -3,7 +3,7 @@ import pic from "./aayush.jpg";
 import Row from "./Row";
 import Header from "./Header";
 const info = {
-  fpo: "Lorem ipsum",
+  fpo: "Lorem ipsum dolor sit",
   contact: "Karan Sharma",
   img: pic,
   location: "madurai",
