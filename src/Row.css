@@ -12,9 +12,10 @@
   margin: 5px;
 }
 img {
-  width: 80px;
+  width: 70px;
   object-fit: contain;
   border-radius: 40px;
+  margin: 10px 0 10px 0;
 }
 .contact > p {
   margin: 10px;
